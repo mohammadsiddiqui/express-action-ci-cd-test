@@ -1,0 +1,13 @@
+{
+  "name": "testapp",
+  "description": "CI CD Test",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "engines": {
+    "node": "8"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+  }
+}
